@@ -38,7 +38,6 @@ const Home = () => {
                                     key={index}
                                     className="bg-black text-white font-bold p-4 rounded-md shadow-md cursor-pointer hover:bg-blue-500">
                                     <FontAwesomeIcon icon={faPlus} className="mr-2" />
-
                                     New Account
                                 </div>
                             }
